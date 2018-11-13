@@ -1,0 +1,11 @@
+.itman-watermark {
+    position: absolute;
+    display: inline-block;
+    z-index: 1;
+    width: 20%;
+  }
+  .itman-watermark img {
+    width: 100%;
+    height: auto;
+  }
+  
